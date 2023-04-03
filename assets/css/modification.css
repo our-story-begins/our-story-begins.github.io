@@ -3,7 +3,8 @@
 }
 
 #truth_words p{
-	color: deeppink;
+	color: black;
+	font-size: medium;
 }
 
 .fc-view-container{
