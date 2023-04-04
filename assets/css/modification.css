@@ -4,9 +4,9 @@
 
 #truth_words p{
 	color: black;
-	font-size: medium;
+	font-size: 1.25rem;
 }
 
 .fc-view-container{
-	border-radius: 1.25rem;
+	border-radius: 2rem;
 }
